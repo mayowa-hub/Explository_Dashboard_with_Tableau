@@ -1,4 +1,4 @@
-### Explository_Dashboard_wth_Tableau
+### Explository_Dashboard_with_Tableau
 
 ## Bussiness Objectives
 
